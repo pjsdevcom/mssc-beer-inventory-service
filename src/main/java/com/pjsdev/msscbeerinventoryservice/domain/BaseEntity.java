@@ -1,4 +1,4 @@
-package domain;
+package com.pjsdev.msscbeerinventoryservice.domain;
 
 import lombok.Getter;
 import lombok.NoArgsConstructor;
