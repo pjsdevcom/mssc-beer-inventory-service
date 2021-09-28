@@ -1,4 +1,4 @@
-package com.pjsdev.msscbeerinventoryservice.web.model;
+package com.pjsdev.brewery.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

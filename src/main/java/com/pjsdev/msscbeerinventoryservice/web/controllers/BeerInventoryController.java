@@ -2,7 +2,7 @@ package com.pjsdev.msscbeerinventoryservice.web.controllers;
 
 import com.pjsdev.msscbeerinventoryservice.repositories.BeerInventoryRepository;
 import com.pjsdev.msscbeerinventoryservice.web.mappers.BeerInventoryMapper;
-import com.pjsdev.msscbeerinventoryservice.web.model.BeerInventoryDto;
+import com.pjsdev.brewery.model.BeerInventoryDto;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.GetMapping;

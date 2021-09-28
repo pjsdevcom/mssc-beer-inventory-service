@@ -1,7 +1,7 @@
 package com.pjsdev.msscbeerinventoryservice.web.mappers;
 
 import com.pjsdev.msscbeerinventoryservice.domain.BeerInventory;
-import com.pjsdev.msscbeerinventoryservice.web.model.BeerInventoryDto;
+import com.pjsdev.brewery.model.BeerInventoryDto;
 import org.mapstruct.Mapper;
 
 @Mapper(uses = DateMapper.class)

@@ -1,4 +1,4 @@
-package com.pjsdev.common.events;
+package com.pjsdev.brewery.model.events;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

@@ -1,4 +1,4 @@
-package com.pjsdev.common.events;
+package com.pjsdev.brewery.model.events;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 import lombok.AllArgsConstructor;

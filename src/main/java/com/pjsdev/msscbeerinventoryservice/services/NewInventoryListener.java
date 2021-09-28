@@ -1,6 +1,6 @@
 package com.pjsdev.msscbeerinventoryservice.services;
 
-import com.pjsdev.common.events.NewInventoryEvent;
+import com.pjsdev.brewery.model.events.NewInventoryEvent;
 import com.pjsdev.msscbeerinventoryservice.config.JmsConfig;
 import com.pjsdev.msscbeerinventoryservice.domain.BeerInventory;
 import com.pjsdev.msscbeerinventoryservice.repositories.BeerInventoryRepository;
