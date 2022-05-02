@@ -6,4 +6,6 @@ public interface AllocationService {
 
     //returns true if we allocate everything, false if we're short on allocation
     Boolean allocateOrder(BeerOrderDto beerOrderDto);
+
+    void deallocateOrder(BeerOrderDto beerOrderDto);
 }
